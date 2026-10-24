@@ -1,0 +1,26 @@
+{
+  "name": "kharcha",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kharcha, a daily spend book with budgets, limit alerts and a loans tracker",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "fonts": "node scripts/vendor-fonts.mjs",
+    "android:add": "cap add android && node scripts/patch-android.mjs",
+    "android:icons": "capacitor-assets generate --android",
+    "android:sync": "cap sync android",
+    "android:open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/app": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/local-notifications": "^8.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.0.0"
+  }
+}
