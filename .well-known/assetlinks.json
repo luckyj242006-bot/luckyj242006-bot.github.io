@@ -5,6 +5,7 @@
       "namespace": "android_app",
       "package_name": "com.joshi.littlegenius",
       "sha256_cert_fingerprints": [
+        "46:82:E4:E4:5E:DC:C1:8F:68:D9:74:73:DA:80:AE:22:64:37:A7:1B:F3:8E:93:2F:0C:20:D1:C5:D0:DC:57:80",
         "85:A4:50:C1:31:40:86:23:47:F7:2C:01:4A:E1:DC:27:C8:94:C1:A7:0C:61:8B:7F:13:64:9E:8D:D0:0F:28:9A",
         "47:EB:A1:92:83:8C:38:59:E1:3F:6F:9E:6D:A5:67:11:BA:33:AB:E9:F5:C7:94:CF:39:89:44:5C:CD:FD:16:8C"
       ]
@@ -16,6 +17,7 @@
       "namespace": "android_app",
       "package_name": "io.github.luckyj242006_bot.twa",
       "sha256_cert_fingerprints": [
+        "46:82:E4:E4:5E:DC:C1:8F:68:D9:74:73:DA:80:AE:22:64:37:A7:1B:F3:8E:93:2F:0C:20:D1:C5:D0:DC:57:80",
         "85:A4:50:C1:31:40:86:23:47:F7:2C:01:4A:E1:DC:27:C8:94:C1:A7:0C:61:8B:7F:13:64:9E:8D:D0:0F:28:9A",
         "47:EB:A1:92:83:8C:38:59:E1:3F:6F:9E:6D:A5:67:11:BA:33:AB:E9:F5:C7:94:CF:39:89:44:5C:CD:FD:16:8C"
       ]
